@@ -81,7 +81,6 @@ About me:
           <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=black">
           <img src="https://img.shields.io/badge/Microsoft%20Excel-217346.svg?style=for-the-badge&logo=Microsoft-Excel&logoColor=black">
           <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=black">
-          <img src="https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=black">
         </a>
       </div>
       <p>Recursos prácticos, actividades, tips, guias, ejercicios, código, ejemplos resueltos y dataset del curso iniciación en Análisis de Datos</p>
