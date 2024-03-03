@@ -3,8 +3,17 @@
 </div>
 
 
+<p align="left">
+<a href="https://gist.github.com/Andresmup/89ba81b6c583e39796e99de0a7343951">
+  <img width="400em" src="https://github-readme-stats.vercel.app/api/gist?id=89ba81b6c583e39796e99de0a7343951&theme=transparent"/>
+</a
+</p>
 
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=89ba81b6c583e39796e99de0a7343951&theme=transparent)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d)
+<p align="left">
+<a href="https://gist.githubusercontent.com/Andresmup/6688695875365cbbe8fbf1172bbe474f/raw/5fa11ba90b649b9ce0ca39cc39608bd4bdf551b3/DATA_ORIENTED_AWS_ARQUITECTURE_EN.svg">
+  <img width="400em" src="https://github-readme-stats.vercel.app/api/gist?id=a8f2847141ff3f4dd6692b42195f4e36&theme=transparent"/>
+</a
+</p>
 
 
 <!--
@@ -61,8 +70,40 @@ About me:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- 
-### ⚙️ &nbsp;GitHub Analytics
+
+## PROFE-proyectos
+<table>
+<tr>
+<td width="100%">
+<h2 align="left">Entry level análisis datos</h2>
+<div align="left">
+<a href="https://github.com/Andresmup/recursos-analisis-datos" target="_blank"><img src="https://private-user-images.githubusercontent.com/77512331/309509959-111c233c-64ff-4f89-a111-916701038659.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDk0OTUyOTksIm5iZiI6MTcwOTQ5NDk5OSwicGF0aCI6Ii83NzUxMjMzMS8zMDk1MDk5NTktMTExYzIzM2MtNjRmZi00Zjg5LWExMTEtOTE2NzAxMDM4NjU5LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzAzVDE5NDMxOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk5OWIzYWIzYjdjYmM2NzhjNmZmNTVlNGQ4YWQzNGMzODk0NmY3YTkxNDBmOTI4MTQzZmRmM2EyYzcxYjcxMGEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.9XSdy_2jGSNuF5VA5TErvaGR104Svd1gJExUeJq8l88" width="400" alt="Curso básico análisis datos"></a>
+<p>
+<a href="[https://github.com/ArisGuimera/Android-Expert](https://github.com/Andresmup/recursos-analisis-datos)" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>Recursos del curso iniciación en Análisis de Datos</p>
+</div>
+
+<h2 align="left">Despliega en 1 minuto tu entorno de trabajo en Github</h2>
+<div align="left">
+<a href="https://github.com/Andresmup/Github_Deploy_with_Terraform" target="_blank"><img src="https://private-user-images.githubusercontent.com/77512331/303794750-224cb9c0-fc89-4e6d-b288-d80d3b139d3c.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDk0OTU1NzcsIm5iZiI6MTcwOTQ5NTI3NywicGF0aCI6Ii83NzUxMjMzMS8zMDM3OTQ3NTAtMjI0Y2I5YzAtZmM4OS00ZTZkLWIyODgtZDgwZDNiMTM5ZDNjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzAzVDE5NDc1N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZhMzE3MWRmYjFmNGExOWU4ZDZiNzE3NDdjYzZkZjlkNmQ4MTQyOTY4YmQ3MWUyMGM5YzgzMGIyYmQ0ZTg1ZGMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.RGuMJUUr8mxKX8LLUfnYnUmBWrel0szQGHevo7nvh_M" width="400" alt="Github_Deploy_with_Terraform"></a>
+<p>
+<a href="https://github.com/Andresmup/Github_Deploy_with_Terraform" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>Con Terraform podrás crear rápido y fácil, un entorno completo de trabajo personal o una organización en Github.</p>
+</div>
+
+
+</td>  
+</table>                                                                                 
+</div>
+<br>
+ 
+## ⚙️ GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/Andresmup">
