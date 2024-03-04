@@ -108,26 +108,25 @@ About me:
 <table width="100%" >
   <tr>
     <td align="center" width="50%" style="vertical-align: top;">
-      <h2>Entry level análisis datos</h2>
+      <h2>Github Fundations Full Study Guide</h2>
       <div>
-        <a href="https://github.com/Andresmup/recursos-analisis-datos" target="_blank">
-          <img src="https://private-user-images.githubusercontent.com/77512331/309509959-111c233c-64ff-4f89-a111-916701038659.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDk0OTUyOTksIm5iZiI6MTcwOTQ5NDk5OSwicGF0aCI6Ii83NzUxMjMzMS8zMDk1MDk5NTktMTExYzIzM2MtNjRmZi00Zjg5LWExMTEtOTE2NzAxMDM4NjU5LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzAzVDE5NDMxOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk5OWIzYWIzYjdjYmM2NzhjNmZmNTVlNGQ4YWQzNGMzODk0NmY3YTkxNDBmOTI4MTQzZmRmM2EyYzcxYjcxMGEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.9XSdy_2jGSNuF5VA5TErvaGR104Svd1gJExUeJq8l88" height="150" alt="Curso básico análisis datos">
+        <a href="https://github.com/Andresmup/github-foundations" target="_blank">
+          <img src="https://github.com/Andresmup/github-foundations/blob/dev/images/GithubFundationBadget.png?raw=true" height="120" alt="github-foundations">
         </a>
       </div>
       <div>
-        <a href="https://github.com/Andresmup/recursos-analisis-datos" target="_blank">
-          <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=black">
-          <img src="https://img.shields.io/badge/Microsoft%20Excel-217346.svg?style=for-the-badge&logo=Microsoft-Excel&logoColor=black">
-          <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=black">
+        <a href="https://github.com/Andresmup/github-foundations" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-ff9?style=for-the-badge&logo=github&logoColor=black">
+          <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=black">
         </a>
       </div>
-      <p>Recursos prácticos, actividades, tips, guias, ejercicios, código, ejemplos resueltos y dataset del curso iniciación en Análisis de Datos</p>
+      <p>Guia completa de Github con apuntes, notas, tips y material necesario para aprobar la certificación Github Fundations.</p>
     </td>
     <td align="center" width="50%" style="vertical-align: top;">
       <h2>Workspace de Github en 1 min</h2>
       <div>
         <a href="https://github.com/Andresmup/Github_Deploy_with_Terraform" target="_blank">
-          <img src="https://private-user-images.githubusercontent.com/77512331/303794750-224cb9c0-fc89-4e6d-b288-d80d3b139d3c.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDk0OTU1NzcsIm5iZiI6MTcwOTQ5NTI3NywicGF0aCI6Ii83NzUxMjMzMS8zMDM3OTQ3NTAtMjI0Y2I5YzAtZmM4OS00ZTZkLWIyODgtZDgwZDNiMTM5ZDNjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzAzVDE5NDc1N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZhMzE3MWRmYjFmNGExOWU4ZDZiNzE3NDdjYzZkZjlkNmQ4MTQyOTY4YmQ3MWUyMGM5YzgzMGIyYmQ0ZTg1ZGMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.RGuMJUUr8mxKX8LLUfnYnUmBWrel0szQGHevo7nvh_M" height="150" alt="Github_Deploy_with_Terraform"">
+          <img src="https://private-user-images.githubusercontent.com/77512331/303794750-224cb9c0-fc89-4e6d-b288-d80d3b139d3c.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDk0OTU1NzcsIm5iZiI6MTcwOTQ5NTI3NywicGF0aCI6Ii83NzUxMjMzMS8zMDM3OTQ3NTAtMjI0Y2I5YzAtZmM4OS00ZTZkLWIyODgtZDgwZDNiMTM5ZDNjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzAzVDE5NDc1N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZhMzE3MWRmYjFmNGExOWU4ZDZiNzE3NDdjYzZkZjlkNmQ4MTQyOTY4YmQ3MWUyMGM5YzgzMGIyYmQ0ZTg1ZGMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.RGuMJUUr8mxKX8LLUfnYnUmBWrel0szQGHevo7nvh_M" height="120" alt="Github_Deploy_with_Terraform"">
         </a>
       </div>
       <div>
