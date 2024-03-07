@@ -126,7 +126,7 @@ About me:
       <h2>Workspace de Github en 1 min</h2>
       <div>
         <a href="https://github.com/Andresmup/Github_Deploy_with_Terraform" target="_blank">
-          <img src="https://private-user-images.githubusercontent.com/77512331/303794750-224cb9c0-fc89-4e6d-b288-d80d3b139d3c.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDk0OTU1NzcsIm5iZiI6MTcwOTQ5NTI3NywicGF0aCI6Ii83NzUxMjMzMS8zMDM3OTQ3NTAtMjI0Y2I5YzAtZmM4OS00ZTZkLWIyODgtZDgwZDNiMTM5ZDNjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzAzVDE5NDc1N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZhMzE3MWRmYjFmNGExOWU4ZDZiNzE3NDdjYzZkZjlkNmQ4MTQyOTY4YmQ3MWUyMGM5YzgzMGIyYmQ0ZTg1ZGMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.RGuMJUUr8mxKX8LLUfnYnUmBWrel0szQGHevo7nvh_M" height="120" alt="Github_Deploy_with_Terraform"">
+          <img src="https://github.com/Andresmup/Github_Deploy_with_Terraform/blob/main/images/Terraform+Github.png?raw=true" height="120" alt="Github_Deploy_with_Terraform"">
         </a>
       </div>
       <div>
