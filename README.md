@@ -73,7 +73,7 @@ About me:
       <h2>Entry level análisis datos</h2>
       <div>
         <a href="https://github.com/Andresmup/recursos-analisis-datos" target="_blank">
-          <img src="https://private-user-images.githubusercontent.com/77512331/309509959-111c233c-64ff-4f89-a111-916701038659.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDk0OTUyOTksIm5iZiI6MTcwOTQ5NDk5OSwicGF0aCI6Ii83NzUxMjMzMS8zMDk1MDk5NTktMTExYzIzM2MtNjRmZi00Zjg5LWExMTEtOTE2NzAxMDM4NjU5LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzAzVDE5NDMxOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk5OWIzYWIzYjdjYmM2NzhjNmZmNTVlNGQ4YWQzNGMzODk0NmY3YTkxNDBmOTI4MTQzZmRmM2EyYzcxYjcxMGEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.9XSdy_2jGSNuF5VA5TErvaGR104Svd1gJExUeJq8l88" height="150" alt="Curso básico análisis datos">
+          <img src="https://raw.githubusercontent.com/Andresmup/recursos-analisis-datos/main/images/BANNER.jpg" height="150" alt="Curso básico análisis datos">
         </a>
       </div>
       <div>
@@ -146,7 +146,7 @@ About me:
 
 <p align="center">
 <a href="https://github.com/Andresmup">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Andresmup&show=prs_merged_percentage&show_icons=true&theme=transparent"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andresmup&hide_progress=true&size_weight=0.5&count_weight=0.5&theme=transparent"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Andresmup&show=prs_merged_percentage&show_icons=true&theme=transparent"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andresmup&hide_progress=true&size_weight=0.5&count_weight=0.5&theme=transparent"/>
 </a>
 </p>
