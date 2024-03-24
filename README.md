@@ -77,8 +77,6 @@
 </ul>
 </div>
 
-
-
 <div align="left">
 <h2 align="left">👨‍🏫​ PROFE-proyectos</a></h2>
 </div>
@@ -161,8 +159,8 @@
 
 <p align="center">
 <a href="https://github.com/Andresmup">
-  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=Andresmup&show=prs_merged_percentage&show_icons=true&theme=transparent"/>
-  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andresmup&hide_progress=true&size_weight=0.5&count_weight=0.5&theme=transparent"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=Andresmup&show=prs_merged_percentage&size_weight=0.5&count_weight=0.5&show_icons=true&theme=transparent"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andresmup&layout=compact&size_weight=0.5&count_weight=0.5&theme=transparent"/>
 </a>
 </p>
 
