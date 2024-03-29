@@ -1,17 +1,21 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/andres-mu%C3%B1oz-pampillon">Andrés</a>  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+<h1 align="center">Hi I'm <a href="https://www.linkedin.com/in/andres-mu%C3%B1oz-pampillon">Andrés</a>  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 </div>
 
 
-<p align="left">
-<a href="https://gist.githubusercontent.com/Andresmup/6688695875365cbbe8fbf1172bbe474f/raw/5fa11ba90b649b9ce0ca39cc39608bd4bdf551b3/DATA_ORIENTED_AWS_ARQUITECTURE_EN.svg">
-  <img width="400em" src="https://github-readme-stats.vercel.app/api/gist?id=a8f2847141ff3f4dd6692b42195f4e36&theme=transparent"/>
-</a
-</p>
+<div align="left">
+<h2 align="left">👨🏽‍💻 Github profile</a></h2>
+</div>
 
-
-
-[Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Andresmup&repo=github-readme-stats)(https://github.com/anuraghazra/github-readme-stats)
+<div align="left">
+  <ul>
+  <li>I joined GitHub <b>{{ ACCOUNT_AGE }}</b> years ago</li>
+  <li>I've pushed <b>{{ COMMITS }}</b> commits, opened <b>{{ ISSUES }}</b> issues, submitted <b>{{ PULL_REQUESTS }}</b> pull requests.</li>
+  <li>I've received <b>{{ STARS }}</b> stars across <b>{{ REPOSITORIES }}</b> personal projects and {{ GISTS }} gists</li>
+  <li>🤔 I’m looking for help with</li>
+  <li>The total visitors of this repo is <img src="https://visitor-badge.laobi.icu/badge?page_id=Andresmup.Andresmup" alt="visitors"></li>
+</ul>
+</div>
 
 
 <div align="left">
@@ -64,7 +68,7 @@
 </ul>  
 
 <div align="left">
-<h2 align="left">🌐​ Personal info</a></h2>
+<h2 align="left">📢​ Personal info</a></h2>
 </div>
 
 <div align="left">
@@ -221,7 +225,7 @@
       <h2>MageAI Pipeline between S3 and RDS</h2>
       <div>
         <a href="https://github.com/Andresmup/Mage_Pipeline_S3_to_RDS" target="_blank">
-          <img src="https://github.com/Andresmup/Mage_Pipeline_S3_to_RDS/blob/master/images/PIPELINE.png" height="150" alt="Pipeline MageAI">
+          <img src="https://raw.githubusercontent.com/Andresmup/Mage_Pipeline_S3_to_RDS/master/images/PIPELINE.png" height="150" alt="Pipeline MageAI">
         </a>
       </div>
       <div>
