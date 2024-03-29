@@ -3,7 +3,6 @@
 </div>
 
 
-
 <p align="left">
 <a href="https://gist.githubusercontent.com/Andresmup/6688695875365cbbe8fbf1172bbe474f/raw/5fa11ba90b649b9ce0ca39cc39608bd4bdf551b3/DATA_ORIENTED_AWS_ARQUITECTURE_EN.svg">
   <img width="400em" src="https://github-readme-stats.vercel.app/api/gist?id=a8f2847141ff3f4dd6692b42195f4e36&theme=transparent"/>
@@ -11,12 +10,12 @@
 </p>
 
 
-<!--
-# [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Andresmup&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
--->
+
+[Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Andresmup&repo=github-readme-stats)(https://github.com/anuraghazra/github-readme-stats)
+
 
 <div align="left">
-<h2 align="left">🌐​ Contacto</a></h2>
+<h2 align="left">🌐​ Contact me</a></h2>
 </div>
 
 <div align="left">
@@ -43,7 +42,7 @@
   </li>
   <li>
     <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900.svg?style=for-the-badge&logo=AWS-Lambda&logoColor=white" alt="Lambda">
-    <img src="https://img.shields.io/badge/MageAI-43bef9.svg?style=for-the-badge&logo=MageAI&logoColor=white" alt="MageAI">
+    <img src="https://img.shields.io/badge/Mage%20AI-43bef9.svg?style=for-the-badge&logo=MageAI&logoColor=white" alt="MageAI">
     <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE.svg?style=for-the-badge&logo=Apache-Airflow&logoColor=white" alt="Airflow">
   </li>
   <li>
@@ -60,6 +59,7 @@
     <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white" alt="Docker">
     <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" alt="GIT">
     <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="Github">
+    <img src="https://img.shields.io/badge/GITHUB%20ACTIONS-%23004577?style=for-the-badge&logo=github-actions&logoColor=black">
   </li>
 </ul>  
 
@@ -78,45 +78,8 @@
 </div>
 
 <div align="left">
-<h2 align="left">👨‍🏫​ PROFE-proyectos</a></h2>
+<h2 align="left">👨‍🏫​ EDTech-repos</a></h2>
 </div>
-<table width="100%" >
-  <tr>
-    <td align="center" width="50%" style="vertical-align: top;">
-      <h2>Entry level análisis datos</h2>
-      <div>
-        <a href="https://github.com/Andresmup/recursos-analisis-datos" target="_blank">
-          <img src="https://raw.githubusercontent.com/Andresmup/recursos-analisis-datos/main/images/BANNER.jpg" height="150" alt="Curso básico análisis datos">
-        </a>
-      </div>
-      <div>
-        <a href="https://github.com/Andresmup/recursos-analisis-datos" target="_blank">
-          <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=black">
-          <img src="https://img.shields.io/badge/Microsoft%20Excel-217346.svg?style=for-the-badge&logo=Microsoft-Excel&logoColor=black">
-          <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=black">
-        </a>
-      </div>
-      <p>Recursos prácticos, actividades, tips, guias, ejercicios, código, ejemplos resueltos y dataset del curso iniciación en Análisis de Datos</p>
-    </td>
-    <td align="center" width="50%" style="vertical-align: top;">
-      <h2>ML con SQL en BigQuery</h2>
-      <div>
-        <a href="https://gist.github.com/Andresmup/89ba81b6c583e39796e99de0a7343951" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/gist?id=89ba81b6c583e39796e99de0a7343951&theme=transparent" height="150" alt="Machine Learning con SQL en BigQuery">
-        </a>
-      </div>
-      <div>
-        <a href="https://gist.github.com/Andresmup/89ba81b6c583e39796e99de0a7343951" target="_blank">
-          <img src="https://img.shields.io/badge/Google%20BigQuery-669DF6.svg?style=for-the-badge&logo=Google-BigQuery&logoColor=black">
-          <img src="https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=for-the-badge&logo=Google-Cloud&logoColor=black">
-        </a>
-      </div>
-      <p>Te muestro como crear un modelo ARIMA-PLUS-XREG super fácil usando SQL explicando las queries paso a paso desarrollado en BigQuery.</p>
-    </td>
-  </tr>
-</table>
-
-<br>
 
 <table width="100%" >
   <tr>
@@ -129,14 +92,15 @@
       </div>
       <div>
         <a href="https://github.com/Andresmup/github-foundations" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-ff9?style=for-the-badge&logo=github&logoColor=black">
+          <img src="https://img.shields.io/badge/GitHub-%236e6e6e?style=for-the-badge&logo=github&logoColor=black">
           <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=black">
+          <img src="https://img.shields.io/badge/GITHUB%20ACTIONS-%23004577?style=for-the-badge&logo=github-actions&logoColor=black">
         </a>
       </div>
-      <p>Guia completa de Github con apuntes, notas, tips y material necesario para aprobar la certificación Github Fundations.</p>
+      <p>Full GitHub study guide with notes, tips, and necessary material to pass the GitHub Foundations certification.</p>
     </td>
     <td align="center" width="50%" style="vertical-align: top;">
-      <h2>Workspace de Github en 1 min</h2>
+      <h2>GitHub Workspace in 1 minute</h2>
       <div>
         <a href="https://github.com/Andresmup/Github_Deploy_with_Terraform" target="_blank">
           <img src="https://github.com/Andresmup/Github_Deploy_with_Terraform/blob/main/images/Terraform+Github.png?raw=true" height="120" alt="Github_Deploy_with_Terraform"">
@@ -144,17 +108,136 @@
       </div>
       <div>
         <a href="https://github.com/Andresmup/Github_Deploy_with_Terraform" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-ff9?style=for-the-badge&logo=github&logoColor=black">
+          <img src="https://img.shields.io/badge/GitHub-%236e6e6e?style=for-the-badge&logo=github&logoColor=black">
           <img src="https://img.shields.io/badge/Terraform-844FBA.svg?style=for-the-badge&logo=Terraform&logoColor=black">
         </a>
       </div>
-      <p>Con Terraform podrás crear rápido y fácil, un entorno completo de trabajo personal o una organización en Github.</p>
+      <p>Use Terraform to quickly and easily create a complete personal or organizational workspace environment on GitHub.</p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table width="100%" >
+  <tr>
+    <td align="center" width="50%" style="vertical-align: top;">
+      <h2>Entry level Data Analysis</h2>
+      <div>
+        <a href="https://github.com/Andresmup/recursos-analisis-datos" target="_blank">
+          <img src="https://raw.githubusercontent.com/Andresmup/recursos-analisis-datos/main/images/BANNER.jpg" height="150" alt="Curso básico análisis datos">
+        </a>
+      </div>
+      <div>
+        <a href="https://github.com/Andresmup/recursos-analisis-datos" target="_blank">
+          <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=black">
+          <img src="https://img.shields.io/badge/Microsoft%20Excel-217346.svg?style=for-the-badge&logo=Microsoft-Excel&logoColor=black">
+          <img src="https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=black">
+        </a>
+      </div>
+      <p>Practical resources, activities, tips, guides, exercises, code, solved examples, and dataset for the Beginner's Course in Data Analysis.</p>
+    </td>
+    <td align="center" width="50%" style="vertical-align: top;">
+      <h2>ML with SQL in BigQuery</h2>
+      <div>
+        <a href="https://gist.github.com/Andresmup/89ba81b6c583e39796e99de0a7343951" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/gist?id=89ba81b6c583e39796e99de0a7343951&theme=transparent" height="150" alt="Machine Learning con SQL en BigQuery">
+        </a>
+      </div>
+      <div>
+        <a href="https://gist.github.com/Andresmup/89ba81b6c583e39796e99de0a7343951" target="_blank">
+          <img src="https://img.shields.io/badge/Google%20BigQuery-669DF6.svg?style=for-the-badge&logo=Google-BigQuery&logoColor=black">
+          <img src="https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=for-the-badge&logo=Google-Cloud&logoColor=black">
+        </a>
+      </div>
+      <p>Create a super easy ARIMA-PLUS-XREG model using SQL, explaining the queries step by step, developed in BigQuery.</p>
     </td>
   </tr>
 </table>
 
 
- 
+<div align="left">
+<h2 align="left">💻​ PORTFOLIO-repos</a></h2>
+</div>
+
+<table width="100%" >
+  <tr>
+    <td align="center" width="50%" style="vertical-align: top;">
+      <h2>AWS Data Oriented Migration Plan</h2>
+      <div>
+        <a href="https://drive.google.com/file/d/1TdgtbW5ayoMwk7iXCHoPaPCqA1kyeMty/view" target="_blank">
+          <img src="https://raw.githubusercontent.com/gist/Andresmup/6688695875365cbbe8fbf1172bbe474f/raw/5fa11ba90b649b9ce0ca39cc39608bd4bdf551b3/DATA_ORIENTED_AWS_ARQUITECTURE_EN.svg?raw=true" height="120" alt="aws-migration-schema">
+        </a>
+      </div>
+      <div>
+        <a href="https://drive.google.com/file/d/1TdgtbW5ayoMwk7iXCHoPaPCqA1kyeMty/view" target="_blank">
+          <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=black" alt="AWS">
+          <img src="https://img.shields.io/badge/Lambda-FF9900.svg?style=for-the-badge&logo=AWS-Lambda&logoColor=black">
+          <img src="https://img.shields.io/badge/S3-%2344aa44?style=for-the-badge&logo=amazon-s3&logoColor=black">
+          <img src="https://img.shields.io/badge/Redshift-%23aa0000?style=for-the-badge&logo=amazon-redshift&logoColor=black">
+        </a>
+      </div>
+      <p>Full migrating project to AWS cloud to enhance data utilization: Implementing Data Lake, data processing pipeline, Data Warehouse, organizational security, data protection and more.</p>
+    </td>
+    <td align="center" width="50%" style="vertical-align: top;">
+      <h2>AWS Lambda Function</h2>
+      <div>
+        <a href="https://github.com/Andresmup/Lambda_Function_Container-AutoUpdate_Actions" target="_blank">
+          <img src="https://github.com/Andresmup/Lambda_Function_Container-AutoUpdate_Actions/blob/main/images/AWS_Lambda_Docker.jpg?raw=true" height="120" alt="AWS LAMBDA FUNCTION"">
+        </a>
+      </div>
+      <div>
+        <a href="https://github.com/Andresmup/Lambda_Function_Container-AutoUpdate_Actions" target="_blank">
+          <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900.svg?style=for-the-badge&logo=AWS-Lambda&logoColor=black">
+          <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=black">
+          <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=black">
+        </a>
+      </div>
+      <p>AWS Lambda function deployed using a Docker image, which detects objects created in an S3 datalake and sends them to a Load Balancer via HTTP.</p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table width="100%" >
+  <tr>
+    <td align="center" width="50%" style="vertical-align: top;">
+      <h2>Pytorch CNN arquitecture comparison</h2>
+      <div>
+        <a href="https://github.com/Andresmup/PyTorch_Arquitecture_Comparison" target="_blank">
+          <img src="https://raw.githubusercontent.com/Andresmup/PyTorch_Arquitecture_Comparison/main/images/PyTorch_Logo.png" height="150" alt="Pytorch CNN arquitecture comparison">
+        </a>
+      </div>
+      <div>
+        <a href="https://github.com/Andresmup/PyTorch_Arquitecture_Comparison" target="_blank">
+          <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=black">
+          <img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=black">
+        </a>
+      </div>
+      <p>In this project, various models from the ResNet and EfficientNet architectures are compared in the context of image classification.</p>
+    </td>
+    <td align="center" width="50%" style="vertical-align: top;">
+      <h2>MageAI Pipeline between S3 and RDS</h2>
+      <div>
+        <a href="https://github.com/Andresmup/Mage_Pipeline_S3_to_RDS" target="_blank">
+          <img src="https://github.com/Andresmup/Mage_Pipeline_S3_to_RDS/blob/master/images/PIPELINE.png" height="150" alt="Pipeline MageAI">
+        </a>
+      </div>
+      <div>
+        <a href="https://github.com/Andresmup/Mage_Pipeline_S3_to_RDS" target="_blank">
+          <img src="https://img.shields.io/badge/Mage%20AI-43bef9.svg?style=for-the-badge&logo=MageAI&logoColor=black">
+          <img src="https://img.shields.io/badge/S3-%2344aa44?style=for-the-badge&logo=amazon-s3&logoColor=black">
+          <img src="https://img.shields.io/badge/AWS%20RDS-%23004577?style=for-the-badge&logo=amazon-rds&logoColor=black">
+        </a>
+      </div>
+      <p>Data processing pipeline using MAGE orchestrator between an S3 Bucket and an RDS database on AWS..</p>
+    </td>
+  </tr>
+</table>
+
+
+
 ## ⚙️ GitHub Analytics
 
 <p align="center">
