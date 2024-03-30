@@ -97,7 +97,7 @@
       <h2>Github Fundations Full Study Guide</h2>
       <div>
         <a href="https://github.com/Andresmup/github-foundations" target="_blank">
-          <img src="https://github.com/Andresmup/github-foundations/blob/dev/images/GithubFundationBadget.png?raw=true" height="120" alt="github-foundations">
+          <img src="https://github.com/Andresmup/github-foundations/blob/main/images/GithubFundationBadget.png?raw=true" height="120" alt="github-foundations">
         </a>
       </div>
       <div>
