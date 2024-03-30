@@ -34,7 +34,7 @@
 <h3>Github Foundations</h2>
       <div>
         <a href="https://www.credly.com/badges/30b06494-c73a-461c-9a96-c72cf093b947/public_url" target="_blank">
-          <img src="https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" height="100" alt="Github Foundations">
+          <img src="https://github.com/Andresmup/github-foundations/blob/main/images/GithubFundationBadget.png?raw=true" height="100" alt="Github Foundations">
         </a>
       </div>
 </div>
@@ -97,7 +97,7 @@
       <h2>Github Fundations Full Study Guide</h2>
       <div>
         <a href="https://github.com/Andresmup/github-foundations" target="_blank">
-          <img src="https://github.com/Andresmup/github-foundations/blob/dev/images/GithubFundationBadget.png?raw=true" height="120" alt="github-foundations">
+          <img src="https://github.com/Andresmup/github-foundations/blob/main/images/GithubFundationBadget.png?raw=true" height="120" alt="github-foundations">
         </a>
       </div>
       <div>
@@ -122,7 +122,7 @@
           <img src="https://img.shields.io/badge/Terraform-844FBA.svg?style=for-the-badge&logo=Terraform&logoColor=black">
         </a>
       </div>
-      <p>Use Terraform to quickly and easily create a complete personal or organizational workspace environment on GitHub.</p>
+      <p>Use Terraform to quickly create a complete personal or organizational workspace environment on GitHub.</p>
     </td>
   </tr>
 </table>
@@ -187,7 +187,7 @@
           <img src="https://img.shields.io/badge/Redshift-%23aa0000?style=for-the-badge&logo=amazon-redshift&logoColor=black">
         </a>
       </div>
-      <p>Full migrating project to AWS cloud to enhance data utilization: Implementing Data Lake, data processing pipeline, Data Warehouse, organizational security, data protection and more.</p>
+      <p>Full migrating project to AWS cloud to enhance data utilization. Implementing Data Lake, data processing pipeline, Data Warehouse more.</p>
     </td>
     <td align="center" width="50%" style="vertical-align: top;">
       <h2>AWS Lambda Function</h2>
@@ -213,7 +213,7 @@
 <table width="100%" >
   <tr>
     <td align="center" width="50%" style="vertical-align: top;">
-      <h2>Pytorch CNN arquitecture comparison</h2>
+      <h2>Pytorch CNN arquitectures</h2>
       <div>
         <a href="https://github.com/Andresmup/PyTorch_Arquitecture_Comparison" target="_blank">
           <img src="https://raw.githubusercontent.com/Andresmup/PyTorch_Arquitecture_Comparison/main/images/PyTorch_Logo.png" height="150" alt="Pytorch CNN arquitecture comparison">
@@ -225,10 +225,10 @@
           <img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=black">
         </a>
       </div>
-      <p>In this project, various models from the ResNet and EfficientNet architectures are compared in the context of image classification.</p>
+      <p>Various models from the ResNet and EfficientNet architectures are compared for image classification.</p>
     </td>
     <td align="center" width="50%" style="vertical-align: top;">
-      <h2>MageAI Pipeline between S3 and RDS</h2>
+      <h2>MageAI Pipeline S3 to RDS</h2>
       <div>
         <a href="https://github.com/Andresmup/Mage_Pipeline_S3_to_RDS" target="_blank">
           <img src="https://raw.githubusercontent.com/Andresmup/Mage_Pipeline_S3_to_RDS/master/images/PIPELINE.png" height="150" alt="Pipeline MageAI">
