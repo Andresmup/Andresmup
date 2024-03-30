@@ -122,7 +122,7 @@
           <img src="https://img.shields.io/badge/Terraform-844FBA.svg?style=for-the-badge&logo=Terraform&logoColor=black">
         </a>
       </div>
-      <p>Use Terraform to quickly and easily create a complete personal or organizational workspace environment on GitHub.</p>
+      <p>Use Terraform to quickly create a complete personal or organizational workspace environment on GitHub.</p>
     </td>
   </tr>
 </table>
@@ -213,7 +213,7 @@
 <table width="100%" >
   <tr>
     <td align="center" width="50%" style="vertical-align: top;">
-      <h2>Pytorch CNN arquitecture comparison</h2>
+      <h2>Pytorch CNN arquitectures</h2>
       <div>
         <a href="https://github.com/Andresmup/PyTorch_Arquitecture_Comparison" target="_blank">
           <img src="https://raw.githubusercontent.com/Andresmup/PyTorch_Arquitecture_Comparison/main/images/PyTorch_Logo.png" height="150" alt="Pytorch CNN arquitecture comparison">
@@ -228,7 +228,7 @@
       <p>In this project, various models from the ResNet and EfficientNet architectures are compared in the context of image classification.</p>
     </td>
     <td align="center" width="50%" style="vertical-align: top;">
-      <h2>MageAI Pipeline between S3 and RDS</h2>
+      <h2>MageAI Pipeline S3 to RDS</h2>
       <div>
         <a href="https://github.com/Andresmup/Mage_Pipeline_S3_to_RDS" target="_blank">
           <img src="https://raw.githubusercontent.com/Andresmup/Mage_Pipeline_S3_to_RDS/master/images/PIPELINE.png" height="150" alt="Pipeline MageAI">
