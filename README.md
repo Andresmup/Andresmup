@@ -187,7 +187,7 @@
           <img src="https://img.shields.io/badge/Redshift-%23aa0000?style=for-the-badge&logo=amazon-redshift&logoColor=black">
         </a>
       </div>
-      <p>Full migrating project to AWS cloud to enhance data utilization: Implementing Data Lake, data processing pipeline, Data Warehouse, organizational security, data protection and more.</p>
+      <p>Full migrating project to AWS cloud to enhance data utilization. Implementing Data Lake, data processing pipeline, Data Warehouse more.</p>
     </td>
     <td align="center" width="50%" style="vertical-align: top;">
       <h2>AWS Lambda Function</h2>
@@ -225,7 +225,7 @@
           <img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=black">
         </a>
       </div>
-      <p>In this project, various models from the ResNet and EfficientNet architectures are compared in the context of image classification.</p>
+      <p>Various models from the ResNet and EfficientNet architectures are compared for image classification.</p>
     </td>
     <td align="center" width="50%" style="vertical-align: top;">
       <h2>MageAI Pipeline S3 to RDS</h2>
