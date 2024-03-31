@@ -8,7 +8,7 @@
 <div align="left">
   <ul>
   <li>🔭 <b><ins>I'm a Cloud Data Engineer and Data Scientist with Analytics Focus</ins></b></li>
-  <li>🎓 <b>I also work as an Ed tech educato</b></li>
+  <li>🎓 <b>I also work as an Ed tech educator</b></li>
   <li>🔍 I'm currently learning about cloud-based data tools.</li>
   <li>👯 I'm looking to collaborate on educational projects.</li>
   <li>💬 Ask me about any questions regarding my repositories.</li>
@@ -39,8 +39,9 @@
       </div>
 </div>
 
-
-<h2>🔥 Skillset</h2>
+<div align="left">
+<h2 align="left">🔥 Skillset</a></h2>
+</div>
 <ul>
   <li>
     <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" alt="Python">
@@ -248,8 +249,9 @@
 
 
 
-## ⚙️ GitHub Analytics
-
+div align="left">
+<h2 align="left">⚙️ GitHub Analytics</a></h2>
+</div>
 <p align="center">
 <a href="https://github.com/Andresmup">
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=Andresmup&show=prs_merged_percentage&size_weight=0.5&count_weight=0.5&show_icons=true&theme=transparent"/>
