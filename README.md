@@ -8,7 +8,7 @@
 <div align="left">
   <ul>
   <li>🔭 <b><ins>I'm a Cloud Data Engineer and Data Scientist with Analytics Focus</ins></b></li>
-  <li>🎓 <b>I also work as an Ed tech educato</b></li>
+  <li>🎓 <b>I also work as an Ed tech educator</b></li>
   <li>🔍 I'm currently learning about cloud-based data tools.</li>
   <li>👯 I'm looking to collaborate on educational projects.</li>
   <li>💬 Ask me about any questions regarding my repositories.</li>
