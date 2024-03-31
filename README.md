@@ -84,7 +84,7 @@
   <ul>
   <li>I joined GitHub <b>3</b> years ago</li>
   <li>I've pushed <b>447</b> commits, opened <b>13</b> issues, submitted <b>50</b> pull requests.</li>
-  <li>I've received <b>43</b> stars across <b>23</b> personal projects and 3 gists</li>
+  <li>I've received <b>43</b> stars across <b>23</b> personal projects and <b>{{ GISTS }}</b> gists</li>
   <li><img src="https://visitor-badge.laobi.icu/badge?page_id=Andresmup.Andresmup" alt="visitors" style="width: auto; height: 20px;"></li>
 </ul>
 </div>
