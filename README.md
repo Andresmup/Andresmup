@@ -82,9 +82,9 @@
 </div>
 <div align="left">
   <ul>
-  <li>I joined GitHub <b>{{ ACCOUNT_AGE }}</b> years ago</li>
-  <li>I've pushed <b>{{ COMMITS }}</b> commits, opened <b>{{ ISSUES }}</b> issues, submitted <b>{{ PULL_REQUESTS }}</b> pull requests.</li>
-  <li>I've received <b>{{ STARS }}</b> stars across <b>{{ REPOSITORIES }}</b> personal projects and {{ GISTS }} gists</li>
+  <li>I joined GitHub <b>3</b> years ago</li>
+  <li>I've pushed <b>447</b> commits, opened <b>13</b> issues, submitted <b>50</b> pull requests.</li>
+  <li>I've received <b>43</b> stars across <b>23</b> personal projects and 3 gists</li>
   <li><img src="https://visitor-badge.laobi.icu/badge?page_id=Andresmup.Andresmup" alt="visitors" style="width: auto; height: 20px;"></li>
 </ul>
 </div>
@@ -264,3 +264,4 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Andresmup&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
 </a>
 </p>
+
