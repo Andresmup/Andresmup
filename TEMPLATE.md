@@ -249,7 +249,7 @@
 
 
 
-div align="left">
+<div align="left">
 <h2 align="left">⚙️ GitHub Analytics</a></h2>
 </div>
 <p align="center">
