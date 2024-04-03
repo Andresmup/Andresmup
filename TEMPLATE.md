@@ -83,7 +83,7 @@
 <div align="left">
   <ul>
   <li>I joined GitHub <b>{{ ACCOUNT_AGE }}</b> years ago</li>
-  <li>I've pushed <b>{{ COMMITS }}</b> commits, opened <b>{{ ISSUES }}</b> issues, submitted <b>{{ PULL_REQUESTS }}</b> pull requests and contribute to <b>{{ REPOSITORIES_CONTRIBUTED_TO }}</b> repositories.</li>
+  <li>I've pushed <b>{{ COMMITS }}</b> commits, opened <b>{{ ISSUES }}</b> issues, submitted <b>{{ PULL_REQUESTS }}</b> pull requests and contribute to <b> {{ REPOSITORIES_CONTRIBUTED_TO }}</b> repositories.</li>
   <li>I've received <b>{{ STARS }}</b> stars across <b>{{ REPOSITORIES }}</b> personal projects and <b>{{ GISTS }}</b> gists</li>
   <li><img src="https://visitor-badge.laobi.icu/badge?page_id=Andresmup.Andresmup" alt="visitors" style="width: auto; height: 20px;"></li>
 </ul>
