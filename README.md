@@ -75,15 +75,16 @@
     <img src="https://img.shields.io/badge/GitHub-%236e6e6e?style=for-the-badge&logo=github&logoColor=black" alt="Github">
     <img src="https://img.shields.io/badge/GITHUB%20ACTIONS-%23004577?style=for-the-badge&logo=github-actions&logoColor=black">
   </li>
-</ul>
+</ul>  
+
 <div align="left">
 <h2 align="left">👨🏽‍💻 Github profile</a></h2>
 </div>
 <div align="left">
   <ul>
   <li>I joined GitHub <b>3</b> years ago</li>
-  <li>I've pushed <b>458</b> commits, opened <b>13</b> issues, submitted <b>52</b> pull requests and contribute to <b> 5</b> repositories.</li>
-  <li>I've received <b>44</b> stars across <b>23</b> personal projects and <b>3</b> gists</li>
+  <li>I've pushed <b>462</b> commits, opened <b>13</b> issues, submitted <b>53</b> pull requests and contribute to <b> 5</b> repositories.</li>
+  <li>I've received <b>45</b> stars across <b>23</b> personal projects and <b>3</b> gists</li>
   <li><img src="https://visitor-badge.laobi.icu/badge?page_id=Andresmup.Andresmup" alt="visitors" style="width: auto; height: 20px;"></li>
 </ul>
 </div>
