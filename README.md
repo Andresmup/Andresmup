@@ -83,8 +83,8 @@
 <div align="left">
   <ul>
   <li>I joined GitHub <b>3</b> years ago</li>
-  <li>I've pushed <b>462</b> commits, opened <b>13</b> issues, submitted <b>53</b> pull requests and contribute to <b> 5</b> repositories.</li>
-  <li>I've received <b>45</b> stars across <b>23</b> personal projects and <b>3</b> gists</li>
+  <li>I've pushed <b>495</b> commits, opened <b>13</b> issues, submitted <b>54</b> pull requests and contribute to <b> 5</b> repositories.</li>
+  <li>I've received <b>46</b> stars across <b>23</b> personal projects and <b>3</b> gists</li>
   <li><img src="https://visitor-badge.laobi.icu/badge?page_id=Andresmup.Andresmup" alt="visitors" style="width: auto; height: 20px;"></li>
 </ul>
 </div>
