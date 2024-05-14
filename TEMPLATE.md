@@ -31,15 +31,12 @@
 <h2 align="left">✔️ Certifications badgets</a></h2>
 </div>
 <div align="left">
-<h3>Github Foundations</h2>
-      <div>
-        <a href="https://www.credly.com/badges/30b06494-c73a-461c-9a96-c72cf093b947/public_url" target="_blank">
-          <img src="https://github.com/Andresmup/github-foundations/blob/main/images/GithubFundationBadget.png?raw=true" height="100" alt="Github Foundations">
-        </a>
-        <a href="https://www.credly.com/badges/b3df323c-9af9-4d43-85d6-9d19a537e221/public_url" target="_blank">
-          <img src="https://raw.githubusercontent.com/Andresmup/AWS-Cloud-Practitioner/main/images/aws-certified-cloud-practitioner.png" height="100" alt="AWS Certified Cloud Practitioner">
-        </a>
-      </div>
+  <a href="https://www.credly.com/badges/30b06494-c73a-461c-9a96-c72cf093b947/public_url" target="_blank">
+    <img src="https://github.com/Andresmup/github-foundations/blob/main/images/GithubFundationBadget.png?raw=true" height="100" alt="Github Foundations">
+  </a>
+  <a href="https://www.credly.com/badges/b3df323c-9af9-4d43-85d6-9d19a537e221/public_url" target="_blank">
+    <img src="https://raw.githubusercontent.com/Andresmup/AWS-Cloud-Practitioner/main/images/aws-certified-cloud-practitioner.png" height="100" alt="AWS Certified Cloud Practitioner">
+  </a>
 </div>
 
 <div align="left">
