@@ -83,7 +83,7 @@
 <div align="left">
   <ul>
   <li>I joined GitHub <b>3</b> years ago</li>
-  <li>I've pushed <b>670</b> commits, opened <b>17</b> issues, submitted <b>78</b> pull requests and contribute to <b> 6</b> repositories.</li>
+  <li>I've pushed <b>673</b> commits, opened <b>17</b> issues, submitted <b>78</b> pull requests and contribute to <b> 6</b> repositories.</li>
   <li>I've received <b>55</b> stars across <b>35</b> personal projects and <b>3</b> gists</li>
   <li><img src="https://visitor-badge.laobi.icu/badge?page_id=Andresmup.Andresmup" alt="visitors" style="width: auto; height: 20px;"></li>
 </ul>
@@ -194,7 +194,7 @@
       <h2>AWS Lambda S3 objects to ALB</h2>
       <div>
         <a href="https://github.com/Andresmup/Lambda_Function_Container-AutoUpdate_Actions" target="_blank">
-          <img src="https://github.com/Andresmup/Lambda_Function_Container-AutoUpdate_Actions/blob/main/images/AWS_Lambda_Docker.jpg?raw=true" height="120" alt="AWS LAMBDA FUNCTION"">
+          <img src="https://github.com/Andresmup/Lambda_Function_Container-AutoUpdate_Actions/blob/main/images/aws-lambda-s3-alb-dark.png?raw=true" height="120" alt="AWS LAMBDA FUNCTION"">
         </a>
       </div>
       <div>
