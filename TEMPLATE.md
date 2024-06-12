@@ -194,7 +194,7 @@
       <h2>AWS Lambda S3 objects to ALB</h2>
       <div>
         <a href="https://github.com/Andresmup/Lambda_Function_Container-AutoUpdate_Actions" target="_blank">
-          <img src="https://github.com/Andresmup/Lambda_Function_Container-AutoUpdate_Actions/blob/main/images/AWS_Lambda_Docker.jpg?raw=true" height="120" alt="AWS LAMBDA FUNCTION"">
+          <img src="https://github.com/Andresmup/Lambda_Function_Container-AutoUpdate_Actions/blob/main/images/aws-lambda-s3-alb-dark.png?raw=true" height="120" alt="AWS LAMBDA FUNCTION"">
         </a>
       </div>
       <div>
