@@ -191,7 +191,7 @@
       <p>Full migrating project to AWS cloud to enhance data utilization. Implementing Data Lake, data processing pipeline, Data Warehouse more.</p>
     </td>
     <td align="center" width="50%" style="vertical-align: top;">
-      <h2>AWS Lambda objects S3 to ALB</h2>
+      <h2>AWS Lambda S3 objects to ALB</h2>
       <div>
         <a href="https://github.com/Andresmup/Lambda_Function_Container-AutoUpdate_Actions" target="_blank">
           <img src="https://github.com/Andresmup/Lambda_Function_Container-AutoUpdate_Actions/blob/main/images/AWS_Lambda_Docker.jpg?raw=true" height="120" alt="AWS LAMBDA FUNCTION"">
