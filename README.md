@@ -50,7 +50,7 @@
     <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=black" alt="MySQL">
   </li>
   <li>
-    <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazon-web-services&logoColor=black" alt="AWS">
+    <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=black" alt="AWS">
     <img src="https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=for-the-badge&logo=Google-Cloud&logoColor=black" alt="GCP">
     <img src="https://img.shields.io/badge/Terraform-844FBA.svg?style=for-the-badge&logo=Terraform&logoColor=black" alt="Terraform">
   </li>
@@ -83,8 +83,8 @@
 <div align="left">
   <ul>
   <li>I joined GitHub <b>3</b> years ago</li>
-  <li>I've pushed <b>683</b> commits, opened <b>17</b> issues, submitted <b>78</b> pull requests and contribute to <b> 6</b> repositories.</li>
-  <li>I've received <b>54</b> stars across <b>34</b> personal projects and <b>3</b> gists</li>
+  <li>I've pushed <b>666</b> commits, opened <b>17</b> issues, submitted <b>78</b> pull requests and contribute to <b> 6</b> repositories.</li>
+  <li>I've received <b>55</b> stars across <b>35</b> personal projects and <b>3</b> gists</li>
   <li><img src="https://visitor-badge.laobi.icu/badge?page_id=Andresmup.Andresmup" alt="visitors" style="width: auto; height: 20px;"></li>
 </ul>
 </div>
@@ -182,7 +182,7 @@
       </div>
       <div>
         <a href="https://drive.google.com/file/d/1TdgtbW5ayoMwk7iXCHoPaPCqA1kyeMty/view" target="_blank">
-          <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazon-web-services&logoColor=black">
+          <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=black" alt="AWS">
           <img src="https://img.shields.io/badge/Lambda-FF9900.svg?style=for-the-badge&logo=AWS-Lambda&logoColor=black">
           <img src="https://img.shields.io/badge/S3-%2344aa44?style=for-the-badge&logo=amazon-s3&logoColor=black">
           <img src="https://img.shields.io/badge/Redshift-%23aa0000?style=for-the-badge&logo=amazon-redshift&logoColor=black">
@@ -191,7 +191,7 @@
       <p>Full migrating project to AWS cloud to enhance data utilization. Implementing Data Lake, data processing pipeline, Data Warehouse more.</p>
     </td>
     <td align="center" width="50%" style="vertical-align: top;">
-      <h2>AWS Lambda objects S3 to ALB</h2>
+      <h2>AWS Lambda Function</h2>
       <div>
         <a href="https://github.com/Andresmup/Lambda_Function_Container-AutoUpdate_Actions" target="_blank">
           <img src="https://github.com/Andresmup/Lambda_Function_Container-AutoUpdate_Actions/blob/main/images/AWS_Lambda_Docker.jpg?raw=true" height="120" alt="AWS LAMBDA FUNCTION"">
@@ -199,9 +199,9 @@
       </div>
       <div>
         <a href="https://github.com/Andresmup/Lambda_Function_Container-AutoUpdate_Actions" target="_blank">
-          <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazon-web-services&logoColor=black">
           <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900.svg?style=for-the-badge&logo=AWS-Lambda&logoColor=black">
           <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=black">
+          <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=black">
         </a>
       </div>
       <p>AWS Lambda function deployed using a Docker image, which detects objects created in an S3 datalake and sends them to a Load Balancer via HTTP.</p>
@@ -229,20 +229,20 @@
       <p>Various models from the ResNet and EfficientNet architectures are compared for image classification.</p>
     </td>
     <td align="center" width="50%" style="vertical-align: top;">
-      <h2>AWS Data Batch in Fargate + CI/CD</h2>
+      <h2>MageAI Pipeline S3 to RDS</h2>
       <div>
-        <a href="https://github.com/Andresmup/aws-batch-fargate" target="_blank">
-          <img src="https://raw.githubusercontent.com/Andresmup/aws-batch-fargate/main/images/aws-batch-processing-dark.png" height="150" alt="AWS Batch">
+        <a href="https://github.com/Andresmup/Mage_Pipeline_S3_to_RDS" target="_blank">
+          <img src="https://raw.githubusercontent.com/Andresmup/Mage_Pipeline_S3_to_RDS/master/images/PIPELINE.png" height="150" alt="Pipeline MageAI">
         </a>
       </div>
       <div>
-        <a href="https://github.com/Andresmup/aws-batch-fargate" target="_blank">
-          <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazon-web-services&logoColor=black">
-          <img src="https://img.shields.io/badge/FARGATE-E25A1C.svg?style=for-the-badge&logo=amazon-ecs&logoColor=black">
-          <img src="https://img.shields.io/badge/GITHUB%20ACTIONS-%23004577?style=for-the-badge&logo=github-actions&logoColor=black">
+        <a href="https://github.com/Andresmup/Mage_Pipeline_S3_to_RDS" target="_blank">
+          <img src="https://img.shields.io/badge/Mage%20AI-43bef9.svg?style=for-the-badge&logo=MageAI&logoColor=black">
+          <img src="https://img.shields.io/badge/S3-%2344aa44?style=for-the-badge&logo=amazon-s3&logoColor=black">
+          <img src="https://img.shields.io/badge/AWS%20RDS-%23004577?style=for-the-badge&logo=amazon-rds&logoColor=black">
         </a>
       </div>
-      <p>AWS Batch data processing showcase using Docker on ECS Fargate with GitHub Actions CI/CD</p>
+      <p>Data processing pipeline using MAGE orchestrator between an S3 Bucket and an RDS database on AWS..</p>
     </td>
   </tr>
 </table>
