@@ -90,84 +90,6 @@
 </div>
 
 <div align="left">
-<h2 align="left">👨‍🏫​ EDTech-repos</a></h2>
-</div>
-<table width="100%" >
-  <tr>
-    <td align="center" width="50%" style="vertical-align: top;">
-      <h2>Github Fundations Full Study Guide</h2>
-      <div>
-        <a href="https://github.com/Andresmup/github-foundations" target="_blank">
-          <img src="https://github.com/Andresmup/github-foundations/blob/main/images/GithubFundationBadget.png?raw=true" height="120" alt="github-foundations">
-        </a>
-      </div>
-      <div>
-        <a href="https://github.com/Andresmup/github-foundations" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-%236e6e6e?style=for-the-badge&logo=github&logoColor=black">
-          <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=black">
-          <img src="https://img.shields.io/badge/GITHUB%20ACTIONS-%23004577?style=for-the-badge&logo=github-actions&logoColor=black">
-        </a>
-      </div>
-      <p>Full GitHub study guide with notes, tips, and necessary material to pass the GitHub Foundations certification.</p>
-    </td>
-    <td align="center" width="50%" style="vertical-align: top;">
-      <h2>GitHub Workspace in 1 minute</h2>
-      <div>
-        <a href="https://github.com/Andresmup/Github_Deploy_with_Terraform" target="_blank">
-          <img src="https://github.com/Andresmup/Github_Deploy_with_Terraform/blob/main/images/Terraform+Github.png?raw=true" height="120" alt="Github_Deploy_with_Terraform"">
-        </a>
-      </div>
-      <div>
-        <a href="https://github.com/Andresmup/Github_Deploy_with_Terraform" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-%236e6e6e?style=for-the-badge&logo=github&logoColor=black">
-          <img src="https://img.shields.io/badge/Terraform-844FBA.svg?style=for-the-badge&logo=Terraform&logoColor=black">
-        </a>
-      </div>
-      <p>Use Terraform to quickly create a complete personal or organizational workspace environment on GitHub.</p>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<table width="100%" >
-  <tr>
-    <td align="center" width="50%" style="vertical-align: top;">
-      <h2>Entry level Data Analysis</h2>
-      <div>
-        <a href="https://github.com/Andresmup/recursos-analisis-datos" target="_blank">
-          <img src="https://raw.githubusercontent.com/Andresmup/recursos-analisis-datos/main/images/BANNER.jpg" height="150" alt="Curso básico análisis datos">
-        </a>
-      </div>
-      <div>
-        <a href="https://github.com/Andresmup/recursos-analisis-datos" target="_blank">
-          <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=black">
-          <img src="https://img.shields.io/badge/Microsoft%20Excel-217346.svg?style=for-the-badge&logo=Microsoft-Excel&logoColor=black">
-          <img src="https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=black">
-        </a>
-      </div>
-      <p>Practical resources, activities, tips, guides, exercises, code, solved examples, and dataset for the Beginner's Course in Data Analysis.</p>
-    </td>
-    <td align="center" width="50%" style="vertical-align: top;">
-      <h2>ML with SQL in BigQuery</h2>
-      <div>
-        <a href="https://gist.github.com/Andresmup/89ba81b6c583e39796e99de0a7343951" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/gist?id=89ba81b6c583e39796e99de0a7343951&theme=transparent" height="150" alt="Machine Learning con SQL en BigQuery">
-        </a>
-      </div>
-      <div>
-        <a href="https://gist.github.com/Andresmup/89ba81b6c583e39796e99de0a7343951" target="_blank">
-          <img src="https://img.shields.io/badge/Google%20BigQuery-669DF6.svg?style=for-the-badge&logo=Google-BigQuery&logoColor=black">
-          <img src="https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=for-the-badge&logo=Google-Cloud&logoColor=black">
-        </a>
-      </div>
-      <p>Create a super easy ARIMA-PLUS-XREG model using SQL, explaining the queries step by step, developed in BigQuery.</p>
-    </td>
-  </tr>
-</table>
-
-
-<div align="left">
 <h2 align="left">💻​ PORTFOLIO-repos</a></h2>
 </div>
 
@@ -248,6 +170,82 @@
 </table>
 
 
+<div align="left">
+<h2 align="left">👨‍🏫​ EDTech-repos</a></h2>
+</div>
+<table width="100%" >
+  <tr>
+    <td align="center" width="50%" style="vertical-align: top;">
+      <h2>Github Fundations Full Study Guide</h2>
+      <div>
+        <a href="https://github.com/Andresmup/github-foundations" target="_blank">
+          <img src="https://github.com/Andresmup/github-foundations/blob/main/images/GithubFundationBadget.png?raw=true" height="120" alt="github-foundations">
+        </a>
+      </div>
+      <div>
+        <a href="https://github.com/Andresmup/github-foundations" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-%236e6e6e?style=for-the-badge&logo=github&logoColor=black">
+          <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=black">
+          <img src="https://img.shields.io/badge/GITHUB%20ACTIONS-%23004577?style=for-the-badge&logo=github-actions&logoColor=black">
+        </a>
+      </div>
+      <p>Full GitHub study guide with notes, tips, and necessary material to pass the GitHub Foundations certification.</p>
+    </td>
+    <td align="center" width="50%" style="vertical-align: top;">
+      <h2>GitHub Workspace in 1 minute</h2>
+      <div>
+        <a href="https://github.com/Andresmup/Github_Deploy_with_Terraform" target="_blank">
+          <img src="https://github.com/Andresmup/Github_Deploy_with_Terraform/blob/main/images/Terraform+Github.png?raw=true" height="120" alt="Github_Deploy_with_Terraform"">
+        </a>
+      </div>
+      <div>
+        <a href="https://github.com/Andresmup/Github_Deploy_with_Terraform" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-%236e6e6e?style=for-the-badge&logo=github&logoColor=black">
+          <img src="https://img.shields.io/badge/Terraform-844FBA.svg?style=for-the-badge&logo=Terraform&logoColor=black">
+        </a>
+      </div>
+      <p>Use Terraform to quickly create a complete personal or organizational workspace environment on GitHub.</p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table width="100%" >
+  <tr>
+    <td align="center" width="50%" style="vertical-align: top;">
+      <h2>Entry level Data Analysis</h2>
+      <div>
+        <a href="https://github.com/Andresmup/recursos-analisis-datos" target="_blank">
+          <img src="https://raw.githubusercontent.com/Andresmup/recursos-analisis-datos/main/images/BANNER.jpg" height="150" alt="Curso básico análisis datos">
+        </a>
+      </div>
+      <div>
+        <a href="https://github.com/Andresmup/recursos-analisis-datos" target="_blank">
+          <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=black">
+          <img src="https://img.shields.io/badge/Microsoft%20Excel-217346.svg?style=for-the-badge&logo=Microsoft-Excel&logoColor=black">
+          <img src="https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=black">
+        </a>
+      </div>
+      <p>Practical resources, activities, tips, guides, exercises, code, solved examples, and dataset for the Beginner's Course in Data Analysis.</p>
+    </td>
+    <td align="center" width="50%" style="vertical-align: top;">
+      <h2>ML with SQL in BigQuery</h2>
+      <div>
+        <a href="https://gist.github.com/Andresmup/89ba81b6c583e39796e99de0a7343951" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/gist?id=89ba81b6c583e39796e99de0a7343951&theme=transparent" height="150" alt="Machine Learning con SQL en BigQuery">
+        </a>
+      </div>
+      <div>
+        <a href="https://gist.github.com/Andresmup/89ba81b6c583e39796e99de0a7343951" target="_blank">
+          <img src="https://img.shields.io/badge/Google%20BigQuery-669DF6.svg?style=for-the-badge&logo=Google-BigQuery&logoColor=black">
+          <img src="https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=for-the-badge&logo=Google-Cloud&logoColor=black">
+        </a>
+      </div>
+      <p>Create a super easy ARIMA-PLUS-XREG model using SQL, explaining the queries step by step, developed in BigQuery.</p>
+    </td>
+  </tr>
+</table>
 
 <div align="left">
 <h2 align="left">⚙️ GitHub Analytics</a></h2>
