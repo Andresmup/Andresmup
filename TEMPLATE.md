@@ -113,6 +113,45 @@
       <p>Full migrating project to AWS cloud to enhance data utilization. Implementing Data Lake, data processing pipeline, Data Warehouse more.</p>
     </td>
     <td align="center" width="50%" style="vertical-align: top;">
+      <h2>AWS Kinesis Pipeline RestAPI</h2>
+      <div>
+        <a href="https://github.com/Andresmup/aws-kinesis-data-ingestion-restapi" target="_blank">
+          <img src="https://github.com/Andresmup/aws-kinesis-data-ingestion-restapi/blob/main/images/aws_data_ingestion_restapi_kinesis_dark.png?raw=true" height="120" alt="AWS KINESIS"">
+        </a>
+      </div>
+      <div>
+        <a href="https://github.com/Andresmup/aws-kinesis-data-ingestion-restapi" target="_blank">
+          <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazon-web-services&logoColor=black">
+          <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900.svg?style=for-the-badge&logo=AWS-Lambda&logoColor=black">
+          <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=black">
+        </a>
+      </div>
+      <p>Full AWS pipeline using Kinesis to ingest data through a REST API, sending the data into DynamoDB using Lambda and into S3 in Parquet files using Athena with Glue.</p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table width="100%" >
+  <tr>
+    <td align="center" width="50%" style="vertical-align: top;">
+      <h2>AWS Data Batch in Fargate + CI/CD</h2>
+      <div>
+       <a href="https://github.com/Andresmup/aws-batch-fargate" target="_blank">
+          <img src="https://raw.githubusercontent.com/Andresmup/aws-batch-fargate/main/images/aws-batch-processing-dark.png" height="150" alt="AWS Batch">
+        </a>
+      </div>
+      <div>
+        <a href="https://github.com/Andresmup/aws-batch-fargate" target="_blank">
+          <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazon-web-services&logoColor=black">
+          <img src="https://img.shields.io/badge/FARGATE-E25A1C.svg?style=for-the-badge&logo=amazon-ecs&logoColor=black">
+          <img src="https://img.shields.io/badge/GITHUB%20ACTIONS-%23004577?style=for-the-badge&logo=github-actions&logoColor=black">
+        </a>
+      </div>
+      <p>AWS Batch data processing showcase using Docker on ECS Fargate with GitHub Actions CI/CD</p>
+    </td>
+        <td align="center" width="50%" style="vertical-align: top;">
       <h2>AWS Lambda S3 objects to ALB</h2>
       <div>
         <a href="https://github.com/Andresmup/Lambda_Function_Container-AutoUpdate_Actions" target="_blank">
@@ -130,6 +169,7 @@
     </td>
   </tr>
 </table>
+
 
 <br>
 
@@ -149,22 +189,21 @@
         </a>
       </div>
       <p>Various models from the ResNet and EfficientNet architectures are compared for image classification.</p>
-    </td>
+    </td>    
     <td align="center" width="50%" style="vertical-align: top;">
-      <h2>AWS Data Batch in Fargate + CI/CD</h2>
+      <h2>ML with SQL in BigQuery</h2>
       <div>
-       <a href="https://github.com/Andresmup/aws-batch-fargate" target="_blank">
-          <img src="https://raw.githubusercontent.com/Andresmup/aws-batch-fargate/main/images/aws-batch-processing-dark.png" height="150" alt="AWS Batch">
+        <a href="https://gist.github.com/Andresmup/89ba81b6c583e39796e99de0a7343951" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/gist?id=89ba81b6c583e39796e99de0a7343951&theme=transparent" height="150" alt="Machine Learning con SQL en BigQuery">
         </a>
       </div>
       <div>
-        <a href="https://github.com/Andresmup/aws-batch-fargate" target="_blank">
-          <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazon-web-services&logoColor=black">
-          <img src="https://img.shields.io/badge/FARGATE-E25A1C.svg?style=for-the-badge&logo=amazon-ecs&logoColor=black">
-          <img src="https://img.shields.io/badge/GITHUB%20ACTIONS-%23004577?style=for-the-badge&logo=github-actions&logoColor=black">
+        <a href="https://gist.github.com/Andresmup/89ba81b6c583e39796e99de0a7343951" target="_blank">
+          <img src="https://img.shields.io/badge/Google%20BigQuery-669DF6.svg?style=for-the-badge&logo=Google-BigQuery&logoColor=black">
+          <img src="https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=for-the-badge&logo=Google-Cloud&logoColor=black">
         </a>
       </div>
-      <p>AWS Batch data processing showcase using Docker on ECS Fargate with GitHub Actions CI/CD</p>
+      <p>Create a super easy ARIMA-PLUS-XREG model using SQL, explaining the queries step by step, developed in BigQuery.</p>
     </td>
   </tr>
 </table>
@@ -192,28 +231,6 @@
       <p>Full GitHub study guide with notes, tips, and necessary material to pass the GitHub Foundations certification.</p>
     </td>
     <td align="center" width="50%" style="vertical-align: top;">
-      <h2>GitHub Workspace in 1 minute</h2>
-      <div>
-        <a href="https://github.com/Andresmup/Github_Deploy_with_Terraform" target="_blank">
-          <img src="https://github.com/Andresmup/Github_Deploy_with_Terraform/blob/main/images/Terraform+Github.png?raw=true" height="120" alt="Github_Deploy_with_Terraform"">
-        </a>
-      </div>
-      <div>
-        <a href="https://github.com/Andresmup/Github_Deploy_with_Terraform" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-%236e6e6e?style=for-the-badge&logo=github&logoColor=black">
-          <img src="https://img.shields.io/badge/Terraform-844FBA.svg?style=for-the-badge&logo=Terraform&logoColor=black">
-        </a>
-      </div>
-      <p>Use Terraform to quickly create a complete personal or organizational workspace environment on GitHub.</p>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<table width="100%" >
-  <tr>
-    <td align="center" width="50%" style="vertical-align: top;">
       <h2>Entry level Data Analysis</h2>
       <div>
         <a href="https://github.com/Andresmup/recursos-analisis-datos" target="_blank">
@@ -227,25 +244,11 @@
           <img src="https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=black">
         </a>
       </div>
-      <p>Practical resources, activities, tips, guides, exercises, code, solved examples, and dataset for the Beginner's Course in Data Analysis.</p>
-    </td>
-    <td align="center" width="50%" style="vertical-align: top;">
-      <h2>ML with SQL in BigQuery</h2>
-      <div>
-        <a href="https://gist.github.com/Andresmup/89ba81b6c583e39796e99de0a7343951" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/gist?id=89ba81b6c583e39796e99de0a7343951&theme=transparent" height="150" alt="Machine Learning con SQL en BigQuery">
-        </a>
-      </div>
-      <div>
-        <a href="https://gist.github.com/Andresmup/89ba81b6c583e39796e99de0a7343951" target="_blank">
-          <img src="https://img.shields.io/badge/Google%20BigQuery-669DF6.svg?style=for-the-badge&logo=Google-BigQuery&logoColor=black">
-          <img src="https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=for-the-badge&logo=Google-Cloud&logoColor=black">
-        </a>
-      </div>
-      <p>Create a super easy ARIMA-PLUS-XREG model using SQL, explaining the queries step by step, developed in BigQuery.</p>
+      <p>Practical resources, activities, tips, guides, exercises, code, solved examples for the Beginner's Course in Data Analysis.</p>
     </td>
   </tr>
 </table>
+
 
 <div align="left">
 <h2 align="left">⚙️ GitHub Analytics</a></h2>
