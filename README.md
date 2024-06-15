@@ -83,7 +83,7 @@
 <div align="left">
   <ul>
   <li>I joined GitHub <b>3</b> years ago</li>
-  <li>I've pushed <b>687</b> commits, opened <b>17</b> issues, submitted <b>78</b> pull requests and contribute to <b> 6</b> repositories.</li>
+  <li>I've pushed <b>689</b> commits, opened <b>17</b> issues, submitted <b>78</b> pull requests and contribute to <b> 6</b> repositories.</li>
   <li>I've received <b>55</b> stars across <b>36</b> personal projects and <b>3</b> gists</li>
   <li><img src="https://visitor-badge.laobi.icu/badge?page_id=Andresmup.Andresmup" alt="visitors" style="width: auto; height: 20px;"></li>
 </ul>
@@ -122,8 +122,8 @@
       <div>
         <a href="https://github.com/Andresmup/aws-kinesis-data-ingestion-restapi" target="_blank">
           <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazon-web-services&logoColor=black">
-          <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900.svg?style=for-the-badge&logo=AWS-Lambda&logoColor=black">
-          <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=black">
+          <img src="https://img.shields.io/badge/API%20GATEWAY-dc2f6f.svg?style=for-the-badge&logo=amazon-api-gateway&logoColor=black">
+          <img src="https://img.shields.io/badge/DYNAMODB-4053d6.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=black">
         </a>
       </div>
       <p>Full AWS pipeline using Kinesis to ingest data through a REST API, sending the data into DynamoDB using Lambda and into S3 in Parquet files using Athena with Glue.</p>
