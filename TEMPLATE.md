@@ -122,8 +122,8 @@
       <div>
         <a href="https://github.com/Andresmup/aws-kinesis-data-ingestion-restapi" target="_blank">
           <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazon-web-services&logoColor=black">
-          <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900.svg?style=for-the-badge&logo=AWS-Lambda&logoColor=black">
-          <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=black">
+          <img src="https://img.shields.io/badge/API%20GATEWAY-dc2f6f.svg?style=for-the-badge&logo=amazon-api-gateway&logoColor=black">
+          <img src="https://img.shields.io/badge/DYNAMODB-4053d6.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=black">
         </a>
       </div>
       <p>Full AWS pipeline using Kinesis to ingest data through a REST API, sending the data into DynamoDB using Lambda and into S3 in Parquet files using Athena with Glue.</p>
