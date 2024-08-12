@@ -50,6 +50,7 @@
     <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=black" alt="Python">
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=black" alt="Pytorch">
     <img src="https://img.shields.io/badge/PySpark-E25A1C.svg?style=for-the-badge&logo=ApacheSpark&logoColor=black" alt="Spark">
+    <img src="https://img.shields.io/badge/Bash-2a3238.svg?style=for-the-badge&logo=Linux&logoColor=black" alt="Bash">
   </li>
   <li>
     <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazon-web-services&logoColor=black" alt="AWS">
