@@ -50,6 +50,7 @@
     <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=black" alt="Python">
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=black" alt="Pytorch">
     <img src="https://img.shields.io/badge/PySpark-E25A1C.svg?style=for-the-badge&logo=ApacheSpark&logoColor=black" alt="Spark">
+    <img src="https://img.shields.io/badge/Bash-2a3238.svg?style=for-the-badge&logo=Linux&logoColor=black" alt="Bash">
   </li>
   <li>
     <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazon-web-services&logoColor=black" alt="AWS">
@@ -90,7 +91,7 @@
 <div align="left">
   <ul>
   <li>I joined GitHub <b>3</b> years ago</li>
-  <li>I've pushed <b>771</b> commits, opened <b>17</b> issues, submitted <b>79</b> pull requests and contribute to <b> 6</b> repositories.</li>
+  <li>I've pushed <b>773</b> commits, opened <b>17</b> issues, submitted <b>79</b> pull requests and contribute to <b> 6</b> repositories.</li>
   <li>I've received <b>59</b> stars across <b>43</b> personal projects and <b>3</b> gists</li>
   <li><img src="https://visitor-badge.laobi.icu/badge?page_id=Andresmup.Andresmup" alt="visitors" style="width: auto; height: 20px;"></li>
 </ul>
