@@ -49,13 +49,18 @@
   <li>
     <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=black" alt="Python">
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=black" alt="Pytorch">
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=black" alt="PostgreSQL">
-    <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=black" alt="MySQL">
+    <img src="https://img.shields.io/badge/PySpark-E25A1C.svg?style=for-the-badge&logo=ApacheSpark&logoColor=black" alt="Spark">
   </li>
   <li>
     <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazon-web-services&logoColor=black" alt="AWS">
-    <img src="https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=for-the-badge&logo=Google-Cloud&logoColor=black" alt="GCP">
+    <img src="https://img.shields.io/badge/GCP-4285F4.svg?style=for-the-badge&logo=Google-Cloud&logoColor=black" alt="GCP">
+    <img src="https://img.shields.io/badge/Snowflake-2db5e9.svg?style=for-the-badge&logo=Snowflake&logoColor=black" alt="Snowflake">
+    <img src="https://img.shields.io/badge/Databricks-FF3621.svg?style=for-the-badge&logo=databricks&logoColor=black" alt="Databrics">
+  </li>
+  <li>
     <img src="https://img.shields.io/badge/Terraform-844FBA.svg?style=for-the-badge&logo=Terraform&logoColor=black" alt="Terraform">
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=black" alt="PostgreSQL">
+    <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=black" alt="MySQL">
   </li>
   <li>
     <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900.svg?style=for-the-badge&logo=AWS-Lambda&logoColor=black" alt="Lambda">
@@ -63,7 +68,7 @@
     <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE.svg?style=for-the-badge&logo=Apache-Airflow&logoColor=black" alt="Airflow">
   </li>
   <li>
-    <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?style=for-the-badge&logo=Apache-Spark&logoColor=black" alt="Spark">
+    <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=black" alt="Docker">
     <img src="https://img.shields.io/badge/dbt-FF694B.svg?style=for-the-badge&logo=dbt&logoColor=black" alt="DBT">
     <img src="https://img.shields.io/badge/Apache%20Kafka-231F20.svg?style=for-the-badge&logo=Apache-Kafka&logoColor=black" alt="Kafka">
   </li>
@@ -73,7 +78,6 @@
     <img src="https://img.shields.io/badge/Looker-4285F4.svg?style=for-the-badge&logo=Looker&logoColor=black" alt="Looker">
   </li>
   <li>
-    <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=black" alt="Docker">
     <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=black" alt="GIT">
     <img src="https://img.shields.io/badge/GitHub-%236e6e6e?style=for-the-badge&logo=github&logoColor=black" alt="Github">
     <img src="https://img.shields.io/badge/GITHUB%20ACTIONS-%23004577?style=for-the-badge&logo=github-actions&logoColor=black">
@@ -86,7 +90,7 @@
 <div align="left">
   <ul>
   <li>I joined GitHub <b>3</b> years ago</li>
-  <li>I've pushed <b>769</b> commits, opened <b>17</b> issues, submitted <b>79</b> pull requests and contribute to <b> 6</b> repositories.</li>
+  <li>I've pushed <b>771</b> commits, opened <b>17</b> issues, submitted <b>79</b> pull requests and contribute to <b> 6</b> repositories.</li>
   <li>I've received <b>59</b> stars across <b>43</b> personal projects and <b>3</b> gists</li>
   <li><img src="https://visitor-badge.laobi.icu/badge?page_id=Andresmup.Andresmup" alt="visitors" style="width: auto; height: 20px;"></li>
 </ul>
