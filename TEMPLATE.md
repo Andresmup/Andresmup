@@ -158,6 +158,31 @@
         </a>
       </div>
       <p>AWS Batch data processing showcase using Docker on ECS Fargate with GitHub Actions CI/CD</p>
+          <td align="center" width="50%" style="vertical-align: top;">
+      <h2>AWS Geolocation Data Ingestion</h2>
+      <div>
+        <a href="https://github.com/Andresmup/aws-pipeline-ml-geolocation" target="_blank">
+          <img src="https://github.com/Andresmup/aws-pipeline-ml-geolocation/blob/main/pictures/aws-ml-architecture-geolocation-dark.png?raw=true" height="150" alt="AWS-geolocation-pipeline">
+        </a>
+      </div>
+      <div>
+        <a href="https://github.com/Andresmup/aws-pipeline-ml-geolocation" target="_blank">
+          <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazon-web-services&logoColor=black">
+          <img src="https://img.shields.io/badge/S3-%2344aa44?style=for-the-badge&logo=amazon-s3&logoColor=black">
+          <img src="https://img.shields.io/badge/Terraform-844FBA.svg?style=for-the-badge&logo=Terraform&logoColor=black"">
+          <img src="https://img.shields.io/badge/Airflow-00ad46.svg?style=for-the-badge&logo=apache-airflow&logoColor=black">
+        </a>
+      </div>
+      <p>AWS Architecture used to ingest geolocation data for data analysis and ML</p>
+    </td> 
+  </tr>
+</table>
+
+
+<br>
+
+<table width="100%" >
+  <tr>
     </td>
         <td align="center" width="50%" style="vertical-align: top;">
       <h2>AWS Lambda S3 objects to ALB</h2>
@@ -173,33 +198,8 @@
           <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=black">
         </a>
       </div>
-      <p>AWS Lambda function deployed using a Docker image, which detects objects created in an S3 datalake and sends them to a Load Balancer via HTTP.</p>
+      <p>AWS Lambda function deployed with Docker, which detects objects created in an S3 and sends them to a Load Balancer</p>
     </td>
-  </tr>
-</table>
-
-
-<br>
-
-<table width="100%" >
-  <tr>
-    <td align="center" width="50%" style="vertical-align: top;">
-      <h2>AWS Geolocation Data Ingestion</h2>
-      <div>
-        <a href="https://github.com/Andresmup/aws-pipeline-ml-geolocation" target="_blank">
-          <img src="https://github.com/Andresmup/aws-pipeline-ml-geolocation/blob/main/pictures/aws-ml-architecture-geolocation-dark.png?raw=true" height="150" alt="AWS-geolocation-pipeline">
-        </a>
-      </div>
-      <div>
-        <a href="https://github.com/Andresmup/aws-pipeline-ml-geolocation" target="_blank">
-          <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazon-web-services&logoColor=black">
-          <img src="https://img.shields.io/badge/S3-%2344aa44?style=for-the-badge&logo=amazon-s3&logoColor=black">
-          <img src="https://img.shields.io/badge/Terraform-844FBA.svg?style=for-the-badge&logo=Terraform&logoColor=black"">
-          <img src="https://img.shields.io/badge/Airflow-00ad46.svg?style=for-the-badge&logo=apache-airflow&logoColor=black">
-        </a>
-      </div>
-      <p>Various models from the ResNet and EfficientNet architectures are compared for image classification.</p>
-    </td>    
     <td align="center" width="50%" style="vertical-align: top;">
       <h2>ML with SQL in BigQuery</h2>
       <div>
