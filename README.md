@@ -66,7 +66,7 @@
   <li>
     <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900.svg?style=for-the-badge&logo=AWS-Lambda&logoColor=black" alt="Lambda">
     <img src="https://img.shields.io/badge/Mage%20AI-43bef9.svg?style=for-the-badge&logo=MageAI&logoColor=black" alt="MageAI">
-    <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE.svg?style=for-the-badge&logo=Apache-Airflow&logoColor=black" alt="Airflow">
+    <img src="https://img.shields.io/badge/Apache%20Airflow-00ad46.svg?style=for-the-badge&logo=apache-airflow&logoColor=black" alt="Airflow">
   </li>
   <li>
     <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=black" alt="Docker">
@@ -91,7 +91,7 @@
 <div align="left">
   <ul>
   <li>I joined GitHub <b>3</b> years ago</li>
-  <li>I've pushed <b>773</b> commits, opened <b>17</b> issues, submitted <b>79</b> pull requests and contribute to <b> 6</b> repositories.</li>
+  <li>I've pushed <b>777</b> commits, opened <b>17</b> issues, submitted <b>79</b> pull requests and contribute to <b> 6</b> repositories.</li>
   <li>I've received <b>59</b> stars across <b>43</b> personal projects and <b>3</b> gists</li>
   <li><img src="https://visitor-badge.laobi.icu/badge?page_id=Andresmup.Andresmup" alt="visitors" style="width: auto; height: 20px;"></li>
 </ul>
@@ -184,16 +184,18 @@
 <table width="100%" >
   <tr>
     <td align="center" width="50%" style="vertical-align: top;">
-      <h2>Pytorch CNN arquitectures</h2>
+      <h2>AWS Geolocation Data Ingestion</h2>
       <div>
-        <a href="https://github.com/Andresmup/PyTorch_Arquitecture_Comparison" target="_blank">
-          <img src="https://raw.githubusercontent.com/Andresmup/PyTorch_Arquitecture_Comparison/main/images/PyTorch_Logo.png" height="150" alt="Pytorch CNN arquitecture comparison">
+        <a href="https://github.com/Andresmup/aws-pipeline-ml-geolocation" target="_blank">
+          <img src="https://github.com/Andresmup/aws-pipeline-ml-geolocation/blob/main/pictures/aws-ml-architecture-geolocation-dark.png?raw=true" height="150" alt="AWS-geolocation-pipeline">
         </a>
       </div>
       <div>
-        <a href="https://github.com/Andresmup/PyTorch_Arquitecture_Comparison" target="_blank">
-          <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=black">
-          <img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=black">
+        <a href="https://github.com/Andresmup/aws-pipeline-ml-geolocation" target="_blank">
+          <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazon-web-services&logoColor=black">
+          <img src="https://img.shields.io/badge/S3-%2344aa44?style=for-the-badge&logo=amazon-s3&logoColor=black">
+          <img src="https://img.shields.io/badge/Terraform-844FBA.svg?style=for-the-badge&logo=Terraform&logoColor=black"">
+          <img src="https://img.shields.io/badge/Airflow-00ad46.svg?style=for-the-badge&logo=apache-airflow&logoColor=black">
         </a>
       </div>
       <p>Various models from the ResNet and EfficientNet architectures are compared for image classification.</p>
