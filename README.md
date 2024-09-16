@@ -91,7 +91,7 @@
 <div align="left">
   <ul>
   <li>I joined GitHub <b>3</b> years ago</li>
-  <li>I've pushed <b>852</b> commits, opened <b>17</b> issues, submitted <b>79</b> pull requests and contribute to <b> 6</b> repositories.</li>
+  <li>I've pushed <b>873</b> commits, opened <b>17</b> issues, submitted <b>79</b> pull requests and contribute to <b> 6</b> repositories.</li>
   <li>I've received <b>60</b> stars across <b>46</b> personal projects and <b>3</b> gists</li>
   <li><img src="https://visitor-badge.laobi.icu/badge?page_id=Andresmup.Andresmup" alt="visitors" style="width: auto; height: 20px;"></li>
 </ul>
