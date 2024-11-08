@@ -7,7 +7,7 @@
 </div>
 <div align="left">
   <ul>
-  <li>🔭 <b><ins>I'm a Cloud Data Engineer and Data Scientist with Analytics Focus</ins></b></li>
+  <li>🔭 <b><ins>I'm a Cloud Engineer specialized in Data Platform</ins></b></li>
   <li>🎓 <b>I also work as an Ed tech educator</b></li>
   <li>🔍 I'm currently learning about cloud-based data tools.</li>
   <li>👯 I'm looking to collaborate on educational projects.</li>
@@ -31,11 +31,17 @@
 <h2 align="left">✔️ Certifications badgets</a></h2>
 </div>
 <div align="left">
+  <a href="https://www.credly.com/badges/67710279-f694-45ad-8a85-db070fce964a/public_url" target="_blank">
+    <img src="https://images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" height="100" alt="AWS Certified Solutions Architect">
+  </a>
   <a href="https://www.credly.com/badges/48298c5a-750c-4605-8549-ad8a554b2582/public_url" target="_blank">
     <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" height="100" alt="AWS Certified Solutions Architect">
   </a>
   <a href="https://www.credly.com/badges/b3df323c-9af9-4d43-85d6-9d19a537e221/public_url" target="_blank">
     <img src="https://raw.githubusercontent.com/Andresmup/AWS-Cloud-Practitioner/main/images/aws-certified-cloud-practitioner.png" height="100" alt="AWS Certified Cloud Practitioner">
+  </a>
+  <a href="https://www.credly.com/badges/225376f1-c86d-472e-8c54-93d115523dc7/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" height="100" alt="AWS Certified AI Practitioner">
   </a>
   <a href="https://www.credly.com/badges/30b06494-c73a-461c-9a96-c72cf093b947/public_url" target="_blank">
     <img src="https://github.com/Andresmup/github-foundations/blob/main/images/GithubFundationBadget.png?raw=true" height="100" alt="Github Foundations">
