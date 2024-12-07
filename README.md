@@ -31,6 +31,9 @@
 <h2 align="left">✔️ Certifications badgets</a></h2>
 </div>
 <div align="left">
+  <a href="https://www.credly.com/badges/0d935f0d-436d-40c9-87ae-7177aa09867b/public_url" target="_blank">
+    <img src="https://images.credly.com/images/44994cda-b5b0-44cb-9a6d-d29b57163073/image.png" height="100" alt="AWS Certified Solutions Architect">
+  </a>
   <a href="https://www.credly.com/badges/67710279-f694-45ad-8a85-db070fce964a/public_url" target="_blank">
     <img src="https://images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" height="100" alt="AWS Certified Solutions Architect">
   </a>
@@ -97,7 +100,7 @@
 <div align="left">
   <ul>
   <li>I joined GitHub <b>3</b> years ago</li>
-  <li>I've pushed <b>899</b> commits, opened <b>17</b> issues, submitted <b>79</b> pull requests and contribute to <b> 6</b> repositories.</li>
+  <li>I've pushed <b>901</b> commits, opened <b>17</b> issues, submitted <b>79</b> pull requests and contribute to <b> 6</b> repositories.</li>
   <li>I've received <b>64</b> stars across <b>47</b> personal projects and <b>4</b> gists</li>
   <li><img src="https://visitor-badge.laobi.icu/badge?page_id=Andresmup.Andresmup" alt="visitors" style="width: auto; height: 20px;"></li>
 </ul>
