@@ -100,8 +100,8 @@
 <div align="left">
   <ul>
   <li>I joined GitHub <b>4</b> years ago</li>
-  <li>I've pushed <b>955</b> commits, opened <b>18</b> issues, submitted <b>79</b> pull requests and contribute to <b> 1</b> repositories.</li>
-  <li>I've received <b>77</b> stars across <b>47</b> personal projects and <b>4</b> gists</li>
+  <li>I've pushed <b>956</b> commits, opened <b>18</b> issues, submitted <b>79</b> pull requests and contribute to <b> 1</b> repositories.</li>
+  <li>I've received <b>78</b> stars across <b>47</b> personal projects and <b>4</b> gists</li>
   <li><img src="https://visitor-badge.laobi.icu/badge?page_id=Andresmup.Andresmup" alt="visitors" style="width: auto; height: 20px;"></li>
 </ul>
 </div>
